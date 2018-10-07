@@ -1,0 +1,6 @@
+c:\users\aat\documents\visual studio 2015\Projects\AssesmentRoverCardano\AssesmentRoverCardano\bin\Debug\AssesmentRoverCardano.exe.config
+c:\users\aat\documents\visual studio 2015\Projects\AssesmentRoverCardano\AssesmentRoverCardano\bin\Debug\AssesmentRoverCardano.exe
+c:\users\aat\documents\visual studio 2015\Projects\AssesmentRoverCardano\AssesmentRoverCardano\bin\Debug\AssesmentRoverCardano.pdb
+c:\users\aat\documents\visual studio 2015\Projects\AssesmentRoverCardano\AssesmentRoverCardano\obj\Debug\AssesmentRoverCardano.csprojResolveAssemblyReference.cache
+c:\users\aat\documents\visual studio 2015\Projects\AssesmentRoverCardano\AssesmentRoverCardano\obj\Debug\AssesmentRoverCardano.exe
+c:\users\aat\documents\visual studio 2015\Projects\AssesmentRoverCardano\AssesmentRoverCardano\obj\Debug\AssesmentRoverCardano.pdb
